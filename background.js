@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener(() => {\n  console.log('Google FX Auto Fill extension installed');\n});
